@@ -6,6 +6,7 @@ public class CheckingClass {
 		System.out.println("BB");
 		System.out.println("HI");
 		System.out.println("BEING HAPPY HA HA HA ");
+		System.out.println("SANJEETHA BANU");
 
 	}
 
